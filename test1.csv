@@ -1,0 +1,11 @@
+name,energies,location,color
+Cu2-L4,0,1,green
+Cu2-L4-int2,6.3,2,green
+L4-TS,26.8,3,green
+Cu2-L4-H,5,4,green
+H-Cu2-L4-F1-ts1-irc-int1,10.4,5,green
+H-Cu2-L4-F1-ts1,18.8,6,green
+H-Cu2-L4-F1-ts1-irc-int2,1,7,green
+H-Cu2-L4-F2-ts2,3.4,8,green
+H-Cu2-L4-F2-ts2-irc-int2,3,9,green
+1-Phenylethanol,0.1,10,black
